@@ -1,0 +1,196 @@
+page
+{
+   width:1200px;
+   height:auto;
+   border-style:groove;
+} 
+
+.headerpart
+{
+  width:1200px;
+  height:200px;
+  border-style:groove;
+  background-color:rgb(255,179,71); 
+  background-image:url('image/header.jpeg');
+  background-repeat:no-repeat
+}
+
+.bodypart
+{
+  width:1200px;   
+  height:auto;
+  border-style:groove;
+  margin-top:5px;
+}
+.bodypart .imagepart
+{
+  width:300px;
+  height:200px; 
+  border-style: groov;
+  background-image:url('image/pic.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart .imagepart1
+{
+  width:300px;
+  height:200px; 
+  border-style: groov;
+  background-image:url('image/pic1.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart .imagepart2
+{
+  width:300px;
+  height:200px; 
+  border-style: groov;
+  background-image:url('image/pic2.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart .imagepart3
+{
+  width:300px;
+  height:200px; 
+  border-style: groov;
+  background-image:url('image/pic3.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart .imagepart4
+{
+  width:300px;
+  height:200px; 
+  border-style: groov;
+  background-image:url('image/pic4.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart .imagepart5
+{
+  width:300px;
+  height:200px; 
+  border-style: groov;
+  background-image:url('image/pic5.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart .imagepart6
+{
+  width:300px;
+  height:200px; 
+  border-style: groov;
+  background-image:url('image/pic6.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart .imagepart7
+{
+  width:300px;
+  height:200px; 
+  border-style: groov;
+  background-image:url('image/pic7.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart .imagepart8
+{
+  width:300px;
+  height:200px; 
+  border-style: groov;
+  background-image:url('image/pic9.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart .imagepart9
+{
+  width:400px;
+  height:200px; 
+  border-style: groov;
+  background-image:url('image/pic8.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart h2
+{
+ color:orange;
+ float:center;
+}
+.bodypart h3
+{
+ color:rgb(159,155,221);
+ float:center;
+}
+.bodypart .imagepart10
+{
+  width:599px;
+  height:221px; 
+  border-style: groov;
+  background-image:url('image/pic10.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:left;
+}
+.bodypart .imagepart11
+{
+  width:601px;
+  height:262px; 
+  border-style: groov;
+  background-image:url('image/pic11.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:right;
+}
+.bodypart .imagepart12
+{
+  width:599px;
+  height:263px; 
+  border-style: groov;
+  background-image:url('image/pic12.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:left;
+}
+.bodypart .imagepart13
+{
+  width:599px;
+  height:217px; 
+  border-style: groov;
+  background-image:url('image/pic13.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:right;
+}
+.footerpart  
+{
+  width:1200px;
+  height:20px;
+  margin-top:5px;
+  background-color:rgb(255,179,71); 
+  border-style:groove;
+}

@@ -1,0 +1,4 @@
+pytorch
+selenium
+scrapy
+beautiful soup

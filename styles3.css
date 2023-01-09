@@ -1,0 +1,121 @@
+.page
+{
+   width:1200px;
+   height:auto;
+   border-style:groove;
+} 
+
+.headerpart
+{
+  width:1200px;
+  height:200px;
+  border-style:groove;
+  background-color:rgb(255,179,71); 
+  background-image:url('image/header.jpeg');
+  background-repeat:no-repeat;
+}
+
+.bodypart
+{
+  width:1200px;   
+  height:auto;
+  border-style:groove;
+  margin-top:5px;
+}
+
+.bodypart .imagepart
+{
+  width:500px;
+  height:400px; 
+  border-style: groov;
+  background-image:url('image/graph1.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+
+.bodypart .imagepart1
+{
+  width:500px;
+  height:400px; 
+  border-style: groov;
+  background-image:url('image/graph2.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+
+.bodypart .imagepart2
+{
+  width:500px;
+  height:400px; 
+  border-style: groov;
+  background-image:url('image/graph3.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart .imagepart3
+{
+  width:500px;
+  height:400px; 
+  border-style: groov;
+  background-image:url('image/piechart.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+  float:center;
+}
+.bodypart .drivespart
+{
+  width:320px;
+  height:530px;
+  border-style:groove;
+  float:right;
+}
+
+.bodypart .drivespart h2
+{
+ color:green;
+ margin-left:10px;
+}
+
+.bodypart .drivespart .Today Drives
+{
+  width:200px;
+  height:450px;
+}
+
+.bodypart .drivespart .Today Drives h4
+{
+ color:orange;
+}
+.bodypart h1
+{
+ color:orange;
+ float:center;
+}
+.bodypart h2
+{
+ color:rgb(124,185,232);
+}
+
+.bodypart .grid-container
+{
+    border: solid orange;
+    height:800px; width:1000px;
+    display:grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-center;
+    align-content: space-evenly;
+}
+.footerpart  
+{
+  width:1200px;
+  height:20px;
+  margin-top:5px;
+  background-color:rgb(255,179,71); 
+  border-style:groove;
+}

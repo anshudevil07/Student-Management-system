@@ -1,0 +1,344 @@
+.page
+{
+   width:1200px;
+   height:auto;
+   border-style:groove;
+} 
+
+.headerpart
+{
+  width:1200px;
+  height:200px;
+  border-style:groove;
+  background-color:rgb(255,179,71); 
+  background-image:url('image/header.jpeg');
+  background-repeat:no-repeat;
+}
+
+.bodypart
+{
+  width:1200px;   
+  height:auto;
+  border-style:groove;
+  margin-top:5px;
+}
+.bodypart h1
+{
+ color:rgb(255,140,0);
+}
+.bodypart h2
+{
+ color:rgb(154,205,50);
+}
+.bodypart .imagepart
+{
+  width:500px;
+  height:400px; 
+  border-style: groov;
+  background-image:url('image/ig.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart1
+{
+  width:500px;
+  height:400px; 
+  border-style: groov;
+  background-image:url('image/ig1.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart h3
+{
+ color:rgb(192,64,0);
+}
+.bodypart .imagepart2
+{
+  width:329.5px;
+  height:136.5px; 
+  border-style: groov;
+  background-image:url('image/ig2.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart3
+{
+  width:349px;
+  height:76.5px; 
+  border-style: groov;
+  background-image:url('image/ig3.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart4
+{
+  width:212px;
+  height:138.5px; 
+  border-style: groov;
+  background-image:url('image/ig4.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart5
+{
+  width:224px;
+  height:157px; 
+  border-style: groov;
+  background-image:url('image/ig5.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart6
+{
+  width:276px;
+  height:87px; 
+  border-style: groov;
+  background-image:url('image/ig6.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart7
+{
+  width:290px;
+  height:87px; 
+  border-style: groov;
+  background-image:url('image/ig7.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart8
+{
+  width:314px;
+  height:55px; 
+  border-style: groov;
+  background-image:url('image/ig8.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart9
+{
+  width:255px;
+  height:140px; 
+  border-style: groov;
+  background-image:url('image/ig9.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart10
+{
+  width:225px;
+  height:52.5px; 
+  border-style: groov;
+  background-image:url('image/ig10.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart11
+{
+  width:349px;
+  height:74px; 
+  border-style: groov;
+  background-image:url('image/ig11.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart12
+{
+  width:300px;
+  height:55px; 
+  border-style: groov;
+  background-image:url('image/ig12.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart13
+{
+  width:300px;
+  height:56px; 
+  border-style: groov;
+  background-image:url('image/ig13.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart14
+{
+  width:170px;
+  height:99px; 
+  border-style: groov;
+  background-image:url('image/ig14.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart15
+{
+  width:149px;
+  height:146px; 
+  border-style: groov;
+  background-image:url('image/ig15.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart16
+{
+  width:250px;
+  height:94px; 
+  border-style: groov;
+  background-image:url('image/ig16.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart17
+{
+  width:190px;
+  height:110px; 
+  border-style: groov;
+  background-image:url('image/ig17.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart18
+{
+  width:314px;
+  height:103px; 
+  border-style: groov;
+  background-image:url('image/ig18.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart19
+{
+  width:215.5px;
+  height:80.5px; 
+  border-style: groov;
+  background-image:url('image/ig19.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart20
+{
+  width:427px;
+  height:131px; 
+  border-style: groov;
+  background-image:url('image/ig20.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart21
+{
+  width:101px;
+  height:101px; 
+  border-style: groov;
+  background-image:url('image/ig21.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart22
+{
+  width:301px;
+  height:48px; 
+  border-style: groov;
+  background-image:url('image/ig22.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart23
+{
+  width:222px;
+  height:177px; 
+  border-style: groov;
+  background-image:url('image/ig23.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart24
+{
+  width:462px;
+  height:211px; 
+  border-style: groov;
+  background-image:url('image/ig24.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart25
+{
+  width:258px;
+  height:136px; 
+  border-style: groov;
+  background-image:url('image/ig25.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart26
+{
+  width:223px;
+  height:123px; 
+  border-style: groov;
+  background-image:url('image/ig26.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart27
+{
+  width:458px;
+  height:97px; 
+  border-style: groov;
+  background-image:url('image/ig27.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart28
+{
+  width:347px;
+  height:245px; 
+  border-style: groov;
+  background-image:url('image/ig28.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.bodypart .imagepart29
+{
+  width:232px;
+  height:248px; 
+  border-style: groov;
+  background-image:url('image/ig29.jpeg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  display:inline-block;
+}
+.footerpart  
+{
+  width:1200px;
+  height:20px;
+  margin-top:5px;
+  background-color:rgb(255,179,71); 
+  border-style:groove;
+}
